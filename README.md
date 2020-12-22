@@ -1,6 +1,6 @@
-# Jogo de adivinhação de dados 
+# Jogo de Adivinhação de Dados 
 
-## Materia: Lógica de Programação
-Primeiro semestre - Análise e Desenvolvimento de Sistemas na Faculdade Anhembi Morumbi
+Primeiro semestre - Escola de Ciência e Engenharia da Anhembi Morumbi
+Prof. Rebecca Arambasic
 
-Atividade para exercitar conhecimento em Git e conexão com servidor remoto.
+Essa atividade simples tem como principais objetivos exercitar os conhecimentos teóricos sobre a linguagem de programação Java vistos em aula e praticar o uso de git com conexão remota para projetos em equipe.
